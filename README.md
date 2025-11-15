@@ -31,14 +31,10 @@
 ---
 
 ## Batting Analysis
-![Dashboard Screenshot](Batting-Analysis.png)
-
+![Batting Analysis](images/Batting Analysis.png)
 ---
 ## Bowling Analysis
-> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
-
-![Overview Page](screenshots/ipl_dashboard.png)
-
+![Best 4 Allrounders](images/Best 4 all rounders.png)
 ---
 ## Best 4 all rounder
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
