@@ -1,2 +1,65 @@
-# IPL-Performance-Prediction-Analytics-Dashboard
-A multi-page Power BI dashboard analyzing three IPL seasons with insights on batting, bowling, team performance, and all-rounders. It includes strike rates, wickets, wins, economy rates, and boundary trends. A prediction module highlights likely playoff teams, finalists, and the probable winner.
+# IPL Performance & Prediction Analytics Dashboard
+
+![Dashboard Screenshot](screenshots/ipl_dashboard.png)
+
+**Multi-page Power BI dashboard** analyzing three IPL seasons to deliver batting, bowling, team, and all-rounder insights along with a prediction module that highlights likely playoff teams, finalists, and the probable winner.
+
+---
+
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Data](#data)
+- [Pages & Visuals](#pages--visuals)
+- [Prediction Module](#prediction-module)
+- [Files in this repo](#files-in-this-repo)
+- [How to view / run](#how-to-view--run)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Features
+- Batting analytics: top run scorers, strike rates, boundary % and match contributions  
+- Bowling analytics: wickets, economy rates, strike rates, phase-based performance  
+- Team performance: wins, win % trends, head-to-head comparisons  
+- All-rounder comparison: combined batting + bowling impact metrics  
+- Interactive filters for season, team, player, and match phase  
+- Prediction module using historical metrics to suggest playoff teams, finalists, and winner probabilities
+
+---
+
+## Screenshots
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](screenshots/ipl_dashboard.png)
+
+---
+
+## Data
+- Source: Three seasons of IPL match & player data (CSV / Excel).  
+- Preprocessing: cleaned and aggregated using Power Query (within Power BI).  
+- Key tables: `Matches`, `Innings`, `Players`, `Teams`, `Aggregates`.
+
+---
+
+## Pages & Visuals
+1. **Home / Overview** — Season selectors, KPI cards, trend charts.  
+2. **Batting** — Runs, strike rate, boundaries, player contribution charts.  
+3. **Bowling** — Wickets, economy, phase-wise breakdown.  
+4. **Team Analysis** — Win rates, head-to-head, comparative radar charts.  
+5. **All-Rounders** — Scatter / quadrant analysis of batting vs bowling impact.  
+6. **Prediction** — Playoff & winner probability visualizations and reasoning.
+
+---
+
+## Prediction Module
+- Uses aggregated historical KPIs (team form, net run rate proxies, top player contributions)  
+- Produces ranked probabilities for: Playoff teams, Finalists, Tournament winner  
+- Visualized as probability bars / rank cards for end-user interpretation
+
+---
+
+## Files in this repo
