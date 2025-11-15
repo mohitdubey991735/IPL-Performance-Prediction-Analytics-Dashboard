@@ -31,7 +31,7 @@
 ---
 
 ### Batting Analysis
-![Batting Analysis](images/Batting Analysis.png)
+![Batting Analysis](Batting Analysis.png)
 ---
 ## Bowling Analysis
 ![Best 4 Allrounders](images/Best 4 all rounders.png)
