@@ -12,12 +12,12 @@
 - [Pages & Visuals](#pages--visuals)
 - [Prediction Module](#prediction-module)
 - [Files in this repo](#files-in-this-repo)
-- [Batting Analysis](#Batting Analysis)
-- [Bowling Analysis](#Bowling Analysis)
-- [Best 4 all rounder](#Best 4 all rounder)
-- [Best playing 11](#Best playing 11)
-- [Team Analysis](#Team Analysis)
-- [Prediction for 2024](#Prediction for 2024)
+- [Batting Analysis](#BattingAnalysis)
+- [Bowling Analysis](#BowlingAnalysis)
+- [Best 4 all rounder](#Best-4-all-rounder)
+- [Best playing 11](#Best-playing-11)
+- [Team Analysis](#Team-Analysis)
+- [Prediction for 2024](#Prediction-for-2024)
 ---
 
 ## Features
