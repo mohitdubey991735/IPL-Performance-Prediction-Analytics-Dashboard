@@ -12,8 +12,8 @@
 - [Pages & Visuals](#pages--visuals)
 - [Prediction Module](#prediction-module)
 - [Files in this repo](#files-in-this-repo)
-- [Batting Analysis](#BattingAnalysis)
-- [Bowling Analysis](#BowlingAnalysis)
+- [Batting Analysis](#Batting-Analysis)
+- [Bowling Analysis](#Bowling-Analysis)
 - [Best 4 all rounder](#Best-4-all-rounder)
 - [Best playing 11](#Best-playing-11)
 - [Team Analysis](#Team-Analysis)
@@ -33,7 +33,7 @@
 ## Batting Analysis
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
-![Overview Page](Batting Analysis.png)
+![Overview Page](Batting-Analysis.png)
 
 ---
 ## Bowling Analysis
