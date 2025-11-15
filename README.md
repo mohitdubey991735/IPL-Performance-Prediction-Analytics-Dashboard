@@ -1,6 +1,6 @@
 # IPL Performance & Prediction Analytics Dashboard
 
-![Dashboard Screenshot](screenshots/ipl_dashboard.png)
+![Dashboard Screenshot](home.png)
 
 **Multi-page Power BI dashboard** analyzing three IPL seasons to deliver batting, bowling, team, and all-rounder insights along with a prediction module that highlights likely playoff teams, finalists, and the probable winner.
 
