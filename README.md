@@ -8,17 +8,16 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Data](#data)
 - [Pages & Visuals](#pages--visuals)
 - [Prediction Module](#prediction-module)
 - [Files in this repo](#files-in-this-repo)
-- [How to view / run](#how-to-view--run)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+- [Batting Analysis](#Batting Analysis)
+- [Bowling Analysis](#Bowling Analysis)
+- [Best 4 all rounder](#Best 4 all rounder)
+- [Best playing 11](#Best playing 11)
+- [Team Analysis](#Team Analysis)
+- [Prediction for 2024](#Prediction for 2024)
 ---
 
 ## Features
@@ -31,7 +30,37 @@
 
 ---
 
-## Screenshots
+## Batting Analysis
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](Batting Analysis.png)
+
+---
+## Bowling Analysis
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](screenshots/ipl_dashboard.png)
+
+---
+## Best 4 all rounder
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](screenshots/ipl_dashboard.png)
+
+---
+## Best playing 11
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](screenshots/ipl_dashboard.png)
+
+---
+## Team Analysis
+> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
+
+![Overview Page](screenshots/ipl_dashboard.png)
+
+---
+## Prediction for 2024
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
 ![Overview Page](screenshots/ipl_dashboard.png)
