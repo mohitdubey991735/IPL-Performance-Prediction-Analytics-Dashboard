@@ -31,7 +31,7 @@
 ---
 
 ### Batting Analysis
-![deshboard](https://github.com/mohitdubey991735/Business-Insight-360/blob/main/Home.png)
+![deshboard]([https://github.com/mohitdubey991735/Business-Insight-360/blob/main/Home.png](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/main/Batting%20Analysis.png))
 ---
 ## Bowling Analysis
 ![Best 4 Allrounders](images/Best 4 all rounders.png)
