@@ -31,9 +31,7 @@
 ---
 
 ## Batting Analysis
-> Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
-
-![Overview Page](Batting Analysis.png)
+![Dashboard Screenshot](Batting-Analysis.png)
 
 ---
 ## Bowling Analysis
