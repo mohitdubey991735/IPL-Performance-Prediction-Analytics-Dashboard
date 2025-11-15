@@ -11,7 +11,6 @@
 - [Data](#data)
 - [Pages & Visuals](#pages--visuals)
 - [Prediction Module](#prediction-module)
-- [Files in this repo](#files-in-this-repo)
 - [Batting Analysis](#Batting-Analysis)
 - [Bowling Analysis](#Bowling-Analysis)
 - [Best 4 all rounder](#Best-4-all-rounder)
@@ -34,30 +33,30 @@
 ![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/e54de880b9c55983b44ffb26c83879c24d376690/Batting%20Analysis.png)
 ---
 ## Bowling Analysis
-![Best 4 Allrounders](images/Best 4 all rounders.png)
+![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/f3bdd5aa2fb887fa10f456029a1d391b4036d91e/Bowling%20Analysis.png)
 ---
 ## Best 4 all rounder
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
-![Overview Page](screenshots/ipl_dashboard.png)
+![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/f3bdd5aa2fb887fa10f456029a1d391b4036d91e/Best%204%20all%20rounders.png)
 
 ---
 ## Best playing 11
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
-![Overview Page](screenshots/ipl_dashboard.png)
+![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/f3bdd5aa2fb887fa10f456029a1d391b4036d91e/Best%20Playing%2011.png)
 
 ---
 ## Team Analysis
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
-![Overview Page](screenshots/ipl_dashboard.png)
+![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/f3bdd5aa2fb887fa10f456029a1d391b4036d91e/Team%20Analysis.png)
 
 ---
 ## Prediction for 2024
 > Replace `screenshots/ipl_dashboard.png` with your exported Power BI screenshot(s).
 
-![Overview Page](screenshots/ipl_dashboard.png)
+![deshboard](https://github.com/mohitdubey991735/IPL-Performance-Prediction-Analytics-Dashboard/blob/f3bdd5aa2fb887fa10f456029a1d391b4036d91e/prediction%20for%202024.png)
 
 ---
 
