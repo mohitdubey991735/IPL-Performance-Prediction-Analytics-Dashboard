@@ -31,7 +31,7 @@
 ---
 
 ### Batting Analysis
-![Batting Analysis](Batting Analysis.png)
+![deshboard](https://github.com/mohitdubey991735/Business-Insight-360/blob/main/Home.png)
 ---
 ## Bowling Analysis
 ![Best 4 Allrounders](images/Best 4 all rounders.png)
