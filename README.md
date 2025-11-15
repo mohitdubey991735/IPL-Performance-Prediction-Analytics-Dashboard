@@ -30,7 +30,7 @@
 
 ---
 
-## Batting Analysis
+### Batting Analysis
 ![Batting Analysis](images/Batting Analysis.png)
 ---
 ## Bowling Analysis
